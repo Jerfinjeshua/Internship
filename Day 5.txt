@@ -47,12 +47,8 @@ Day 5
   With these commands, I also learned some basic commands that is used for view status of the file, Add all files, switch to other branches . By practicing this again and again I'm getting
   an Idea and confident in Git ,also I felt command prompt easier than first day. Such way of learning from basics is more helpful for a fresher like me to getting interest in  new things.
   
-  In conclusion, Today's class went very well that I learned many things like how to work as a team , what characteristics that I have to build before entering into an project, 
-  How to improve Interest in something and do it better and learned how Git works with such commands . Finally Koushik gave me the feedback about my over all performance in the last week
-  that he said in beginning I were more active, then next day become dull and another day become active .Me too felt that, many times I have points to speak, but I used to be quit like
-  thinking what if the answer was wrong but sometimes that I thought was correct . So now I decided to be interactive in class when I have valuable points to make the next weeks 
-  feedback much better. Also he said I should have to elaborate my report, as he said I changed and detailed this report. I'm sure in future I will do better and give my best.
-  Thank You.
+  In conclusion, Today's class went very well that I learned many things like how to work as a team , what characteristics that I have to build before entering into an project, How to improve Interest in something and do it better ,also learned how Git works with such commands . Finally Koushik gave me the feedback about my over all performance in the last week that he said in beginning I were more active, then next day become dull and another day become active .Me too felt that, many times I have points to speak, but I used to be quit like thinking what if the answer was wrong but sometimes that I thought was correct . So now I decided to be interactive in class when I have valuable points to make the next weeks feedback much better. Also he said I should have to elaborate my report, as he said I changed and detailed this report. I'm sure in future I will do better and give my best.
+Thank You.
    
       
     
