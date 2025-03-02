@@ -1,0 +1,58 @@
+Day 5
+  Today is my Fifth day of the Internship . As I thought it feels great and I learned a lot, class Started in the topic "Team player".
+  First I thought team player is a person who work together and leads the team to success likely captain in the cricket. 
+  Then Koushik explained about the term "Team Player" with three Characteristics in a person Humble, Hungry, Smart.
+  These are the outlook characteristic that the professional should needed to work effectively.
+  Humble-These people are like Pawns who follow the orders and being very nice with people. For them it's even difficult to say no to someone.
+  Hungry-These people are like Bull Dozers who don't care about others emotions. They care about them selves and always motivated.
+  Smart-These people are very social and understood other colleagues emotions. They make sure the people in surrounding are Happy and They are called Charmers.
+  
+  By seeing those definition I already thought, a person need to have three of them for growing themselves and their surrounding.
+  Koushik  used a Ven Diagram that explained everything, as I thought without any one characteristics in those three it will become a problem for them and others.
+  The person who just have "Humble + Hungry" are the accidental mess makers ."Humble + Smart" they don't grow because they just do their work and be social with others.
+  "Hungry + Smart" They are like skillful politician who could focus on themself and destroy the team.so being Intersection in three of them are very important.
+  A person who have these three characteristics can be successful like growing and make others feel comfortable with him/her .
+  At finally I realised I should have to improve these all which helps my professional career.
+  And the next topic was Intentionality while hearing that many of them started to think it's in a negative way, but I got thoughts in both positive and negative way.
+  But my understanding about Intentionality is less, that I thought someone doing things that they aware about .
+  After that I get to know Intentionality is something that we know about the outcome and it has a purpose to do. The example outing with friends helped a lot to
+  understand about this much better. It will connect with our emotions and we will satisfy more in that .Doing something with such Intentionality is easier for us to remember in future.
+  I related this with my past Incidents which is more suited like both positive and negative thing happened because it's connected mentally because of emotions.
+  
+  Then I thought that's all with Intentionality cause we know the core meaning of that , but Koushik started to connect it with cooling down Brain after stressful work .To cool down brain
+  there are many things to do likely playing , Movies ,Coffee ,Singing and I used to say Sleeping everything is nearly correct but there is Difference in doing this with Intentionality or 
+  because of Addiction . For example watching a movie in our free time will have more difference from watching it with a proper planning and Analyzing .In my college days I used to play
+  online games even with interest or no Interest in my free time, then I realized I'm not playing it with Interest and its not hitting, which is like an Addiction that Ruining my life.
+  Then I started to give my energy in productive ways like learning Programming Languages and it's Frame works. I can relate this Intentionality with this Incident , In future it will be 
+  more helpful for me to improve myself and avoid Distractions cause without Interest and Mindfulness it will nothing.
+  
+  In Afternoon Session it goes technical . Gukesh who is an Senior Software Engineer in Surfboard Payments taught about git and AI tools like DeepSeek, Gemini, Claude AI
+  which is more beneficial in searching different things ,before I likely used Chatgpt and thought over all it's the best, but now I know for different type of usage we can use different 
+  AI platform. Then he taught about Git which was a tool helps to track our performance, which means when multiple persons need to work in a single project and have to do Alteration 
+  overtime, Git helps a lot with its features called Version Control .Version Control helps to update the new better version of the code without deleting the previous one .GitHub also
+  helps to save our code in cloud that we can access in any time.
+  Then comes Sriram who is also an Software Developer in Surfboard payments who teaches Git and its commands in practical way, which helped me to understand many commands that when and 
+  where to use .By learning using Command Prompt is more helpful for me to understand everything from basics .Then I get to know git is working with mechanism called Branches which
+  helps to track day by day changes by creating a pointer from every changes .Even a small changes will creates a new branch for Identifying purpose.
+  I learned new commands like,
+
+  1. git init-Helps to Insert git project into Repository
+  2. git add-Add the specific file we needed into git
+  3. git commit-"Added"-saves the instance in time
+  4. git push-Helps the needed files to store store in repository
+  5. Is- It will lists all the branches
+  6. git branch - It creates a new branch
+  7. git rm-It Removes the file
+
+  With these commands, I also learned some basic commands that is used for view status of the file, Add all files, switch to other branches . By practicing this again and again I'm getting
+  an Idea and confident in Git ,also I felt command prompt easier than first day. Such way of learning from basics is more helpful for a fresher like me to getting interest in  new things.
+  
+  In conclusion, Today's class went very well that I learned many things like how to work as a team , what characteristics that I have to build before entering into an project, 
+  How to improve Interest in something and do it better and learned how Git works with such commands . Finally Koushik gave me the feedback about my over all performance in the last week
+  that he said in beginning I were more active, then next day become dull and another day become active .Me too felt that, many times I have points to speak, but I used to be quit like
+  thinking what if the answer was wrong but sometimes that I thought was correct . So now I decided to be interactive in class when I have valuable points to make the next weeks 
+  feedback much better. Also he said I should have to elaborate my report, as he said I changed and detailed this report. I'm sure in future I will do better and give my best.
+  Thank You.
+   
+      
+    
