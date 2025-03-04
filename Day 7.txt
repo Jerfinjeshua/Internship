@@ -1,0 +1,46 @@
+ Day 7
+   Today is day 7 as I thought class started with problem solving by using the bridge game which doesn't have any solution . According through that i understood I have to consider two
+   more things before Start to solve a  problem that are, 1.Problem that have no Solution,2.Problem that have multiple Solution,3.Problem that have lot of Trial and error.
+   By considering these before dive into problem solving is much helpful , by solving many problems I can understand these concepts.
+   Again I understood I should have to break down a problem into chunks helps to find solution for bigger problems. Then the class went little technical like how computers are processing 
+   data's and calculating the answers, which he used to give a example with human memory processing.
+   For example Human brain calculate new data by processing the existing data's in the memory . computer uses the same strategy for computing.
+   Also get to know Computer uses Electrical Impulses to identify Binary values that helps the compiler to translate the machine code. 
+   Then we used to play a maze puzzle which is easier, but without knowing the pattern it's very difficult for solving. In this puzzle there is edges and vertices we have to touch all the
+   edges without travelling in the same vertices twice firstly I thought there is no solution ,then I able to figure it out by focusing it .
+   Then he said like there is always an relation with a mathematical problem in every problems in the maze problem also have Eulerian cycle which helps to solve it much easier.
+   I have to learn a lot in this by solving many problems , but now I got a good Idea about this how its working and How to do this.
+   
+   Then morning Session finished ,after that we went to our mentors. He asked about the Physical and Virtual Server which I get told to research about, 
+   I tried to explain but its little difficult for me and I complexed  it with different examples than giving simple explanation, then I get to know physical machine is nothing 
+   its our computer which means our PC can works as a server .I complexed this with googles Server , then he gave me two task like connecting the local host running in my Laptop to 
+   other Devices . For first task its ok to connect both device in same WIFI , but for second task I have to connect two devices that connected in different networks .
+   At beginning its very difficult for me cause I don't have any prior Knowledge in this then I have tried to find the flow and how to work in this by Understanding and Researching about
+   the problem like in the problem solving topic in the class. Then I Breakdown Every thing into small chunks.
+   For the first task ,
+   1. I ran the local Host in my System then.
+   2. Then Identified the Ip address that running in my network.
+   3. Then I added the Ip with the port number 5500 with the Ip Address .This helps the Router to figure out which device and port to access.  
+   once the client request using this port and Ip address router redirect to my System and take the Application running in the port 5500.
+   Also in visual Studio code the Live server which runs in its own IP address which is secured I have to configure by using Settings.json in Vs code, 
+   that helps to run using different Ip Addresses At first I thought for what purpose I'm doing this ,later I felt that my way of thinkin is getting differ in Networking like 
+   I get to know how the router was accessing and  processing the data's in the computers. The Router was assigning unique and private Ip address for each device connected in the  
+   same router helps to addressing the Devices .NAT in Router helps to map the port and Ip in a device .I also learned config Ip is an command used in command prompt to 
+   get the details about the network   connectivity like Ip addresses .
+   
+   Then I tried to solve the second task which is much more complex than this, but I managed to do that successfully by learning and researching new things like Ngrok which helps our local 
+   web server to the Internet without port forwarding .Ngrok is a tool which also helps in Load Balancing . 
+   To use it I have to install its program in my device It will access the program running in my local server and redirect to its public server that create an public URL for my website
+   which can be used by other devices to run the port running in my localhost .This Ngrok is helping us to not to do many complex thing to configure our server.
+   Then he told about proxy which helps to run the same port in different systems under one router.  We need to configure the proxy to make it works Accordingly.
+   Also learned some general Information like how the Big Servers running and gets accessed by the outer devices. those servers uses public IP which used to access through any device using 
+   an encrypted tunnel.
+   Then learned about the difference in HTTP and HTTPS(which encrypts the data's for security purposes).
+   
+   In Conclusion,
+   At day 6 I where confused what to do and how should I become confident in Networking that I'm not Familiar with ,but after doing such tasks and research I'm getting Interests
+   and confident in this. I hope in future I can do many tasks like this efficiently that helps me to understand many core concepts to improve my skills .
+   
+ 
+   
+   
