@@ -1,0 +1,40 @@
+Day 6 
+ Today is my day 6 in surfboard payments. As I thought learned some interesting things that needed for my growth .
+  The class started with recalling the Problem Solving topics taken in the previous days like ,Understanding the problem, list Down the constraints, 
+  write down the operation, Breaking down the problem, Solve the most Constrained part, Solving by the operations that satisfying the constraints.
+  But today I learned the Breaking down the problem much better by remembering the sudoku game and also get to know that I have to break down it until I solve it.
+  Then He started the pending topic "Preposition" .
+  Firstly I thought why we have to learn this, cause there is only "True or False" other side I'm very curious to learn some thing new.
+  its like mathematical representation and connections. At beginning I was confused to connect this and get a Idea about Proposition ,
+  then he used an example which was to understand about proposition.
+  a)My car is painted red 
+  b)My car is park in the corner  
+  Then he thought this with some mathematical concepts that I learned in school likely Disjunction, Conjunction, Negation.
+  Disjunction(^)-In this either one of the statement will be true
+  Conjunction(v)-In this both the statement will be true
+
+  Then we get Depth in the topic by using,
+  a)You get an A in maths
+  b)You will get an iPhone
+  If you get an A in maths, you get an I phone- In this statement he get a iPhone if he get A in maths.
+  He will get the iPhone even he didn't get A in maths- Here the first statement (a) is not important cause any way he gets iPhone.
+  In this if the first statement is true and Second Statement is false then the conditional class will be true.
+  If and only if you get A in maths , you will get an iPhone. In this statement there is equal percent of chance for each statement ,at the starting its difficult to understand.
+  Then He used ven diagram to explain that's explained everything well.
+  
+  Then Afternoon we got mentors in different domains .My mentor is Jerfin who is working as in Infrastructure Operations .I don't have any Idea in this domain but he explained 
+  everything from basics like the life cycle of software engineering with the concept SDLC. SDLC is like a framework in software developing. it helps to provide good quality software in 
+  low cost .The main thing that I understood in this is a plan for each stage helps to perform task efficiently. It will works in Planning ,Designing ,Developing, Testing and Deployment
+  Then I get to know about Deployment in SDLC, which area I have to work.
+  After the detailed explanation ,he told about Surfboard payments and its products how its helping to Merchants.
+  Surfboard payments providing software based and Terminal based products with Implication of software's .They provide various ways of payment methods to users especially iPhone
+  users with the Tap to pay options . Because of this they don't need any extra Terminal.
+  Also I get to know about the server and how its working using request and response, but I don't have prior knowledge in networking which is hard to understand. Then he explained the 
+  basic concepts with easy understanding examples which might helps to connect the dots. 
+   
+
+     
+  
+  
+  
+  
