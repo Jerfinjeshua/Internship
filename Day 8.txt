@@ -1,0 +1,36 @@
+Day 8 
+  Today's class started in the topic Algorithm and how computers are using it to do a specific tasks. Then Koushik explained once again about the computers working, like how they are getting
+  and giving output. They are processing the input with the past data stored in its memory, then its providing the output . Then he divided us into five teams and gave a separate task for  
+  each team ,then told to write Algorithm for that task by making one of the teammate like a machine .In this  we have to instruct the machine guy with those instruction to complete 
+  the task. our task is to play a game called dartboard, which I don't know how to play then I searched this in google and it helped me to understand about this game . Then I figured it out
+  like how to play this game and about its rules. Then I tried to write those Algorithms to solve the problem's but I'm not satisfied in this. Then he explained the procedure to write an
+  algorithm  which helped us to write the exact steps. and finally he showed us a video of a father and two kids . The father gave a task to the kids to write the steps to eat two breads 
+  with butter .They did their best to write but everything they written was went funny. By this example video we get an Idea that computers are work like this .Finally Koushik 
+  said the term "Computers are dumb" like this , so we are the one who use computers to some task much easier no computers are brilliant.
+   
+  Then I went to upstairs to see my mentor he asked me about the Virtual and Physical machine ,that he already told to explore I searched about that but what I explained at that time is not
+  enough so I researched again deeply . After that I get to know that both are simple Concepts, than I Initially thought about . Physical machines are nothing but an set of hardware's
+  which includes CPU, Ram, Hard disk..etc .This helps to run programs and applications .But in Virtual Server concepts my entire idea about this are different from the actual Concept.
+  By researching deep I get to know about this much better. Virtual servers are the computers inside an computer, Which uses the physical resources of the physical machine 
+  like Ram,Processor,Internet..etc .This is very useful to work efficiently in one physical machine by sharing its unused Resources. By using virtual machine we can run multiple operating
+  System in a Single device, which was mainly helpful for Software testers and Ethical Hackers for performing the tasks in different OS. There are various advantages in using virtual machine
+  like cost efficient, Is there any server failure its easy to solve the problem.
+  But Physical Machine is difficult for maintaining and move its location like one place to another . Also Virtual machine consuming large amount of CPU and power, that takes the 
+  systems performance to its fullest extent which leads to server crash . SO the Base physical machine should be an highly preforming and effective machine. And another one main thing is 
+  Virtual machine secures the physical machine from any virus attacks. 
+  
+  Also in morning session I watched some you tube videos about Severs and its working, that makes me curious to learn many things about this. Server is an Centralized machine which uses 
+  client server mechanism , like client sends the request to the DNS server which gives the Ip for that request as response . Then browser sends the request using the Ip address to the
+  Web Server. Then Web Server sends the requested Documents as the response .Then the types of servers are Database Server, Fax Server, Mail Server, Game Server, Media Server, 
+  Web Server..etc. Each server has its own Specifications to provide the needed resources. It uses processors like Xeon which is more efficient and powerful than Desktop Servers but
+  they are more Cost.
+  Then my mentor told to create a virtual server which uses Linux as Operating system. At first I thought its very difficult to create a virtual machine but doing it practically
+  its very easier than I thought. I created a Virtual machine by using Hyper Visor like Virtual box, which is a tool that works between Physical and virtual Server .This helps in 
+  Splitting the Resources of the physical computer to the virtual machines. But finally Completing everything the Hyper visor not worked properly which made me disappointed, but I done 
+  every thing nearly correct and saw the output. So I'm carious about to see the output tomorrow by solving the error.Also I'm exited to do such tasks in future to Improve my skills.
+  
+  In Conclusion I learned some new things more effectively that was more helpful for me to understand about networking and Computers different features. Before I used to think there is 
+  no chance to run multiple OS in Single computer, but now my thinking about computers got different and excited to see such features in computers. Finally Over all day went very
+  well and Useful for me to improve myself.
+  
+  
