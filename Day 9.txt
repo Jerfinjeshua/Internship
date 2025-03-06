@@ -1,0 +1,36 @@
+Day 9
+ Today is the day 9 which starts with an small difference that is instead of morning class we went to our mentor. My mentor gave me a task to do in the virtual machine like to make it as 
+ host then make the physical machine as client and then try to connect the application run in the Host with the client. At first I thought its an easy task because that I did a similar
+ task  in my previous  day to connect my physical server to other clients in same network. But for a while I tried to run the application in virtual server cause I'm not familiar with
+ Linux Operating System .Then after a while that I used Linux , it was much more comfortable for me to work. Even installing Visual Studio was difficult comparing with Windows  
+ but after trying again and again. Finally VS code was installed such way of approach helped me to being familiar with Linux and its Terminal. Because of this tomorrows tasks will be
+ much more easier. I Connected the Physical Server with The virtual client ,but I have to make the Virtual Server as host then to connect With the Physical client. I did every 
+ thing  correctly but its not connecting with the client even I tried to connect the Virtual Server with other laptops also Its not working .I changed and did some new things
+ like  configuring network Settings in terminal and configured in the Visual Studios Live Server by giving "live.setting.host:0.0.0.0" that will accept any Ip to run the application in the 
+ browser. while learning this I also searched about something called NAT, which is used for Security purpose like changing the private Ip to public which helps to secure the Internal
+ State of the Network. First I thought this is the problem that secures my system from connecting to other networks ,but its not I changed NAT to Adapter Bridged which also not working.
+  
+ Then after lunch we went to downstairs to the class .Koushik Started the session in the topic of Programming language .firstly we thought he is gonna teach about Java, Python or about
+ other programming language and the remaining class will goes like technical. He started to speak about Machine language which uses 0's and 1's recognize by Electrical impulses. Then I
+ get to know about Assembly Language which I studied in School days but now thinking about it hits different. Assembly language uses(SUB,KUL,ADD,DIV) after that High level language came.
+ Then he switched the topic from Programming language to English language .I got confused what's the relation in both, the humans communication and machine's communication.
+ He said that there is set of rules in every languages like Symbols, Words, Sentences..etc. And showed some reading games like words without space, spelling mistake and words without 
+ meaning. Finally I get to know every language have set of rules and should have a meaning behind it for communication, which is related to Programming Language. In Programming language
+ we call the set of rules as Syntax and the meaning behind it as Semantics ,now this makes sense by connecting both that every programming language have Syntax and Semantics.
+ At last the Conclusion he tried to say is Languages are for humans that we can understand, computers don't understand English or other language . So we using programming language as the key
+ for communication that the compiler translates it to byte code and then to Machine code that how computers are understanding humans.
+ Then I get to know about a K-13 Language which was Ceaser the king used ,then gave us a task to crate our own language like that by creating own Symbols and Sentences as a team. 
+ we have to finish that on Monday which feels Interesting.
+ 
+ After that we again went to upstairs to our mentors and I started to do the same thing I'm trying in Morning Session. I thought I can do it my self and there is a solution for this
+ to connect. Then I asked to my mentor about this he said in the same way of using the local Ip address in virtual Server won't work like before. I'm very disappointed to hear that 
+ cause I'm searching to do like that from morning but it's not wasted. I have explored a lot In terminal and in Linux Operating System that will helps me in future. Now I'm exited to see the 
+ other ways to do that. He also said about the network and the attack happen in virtual server will don't affect the physical server if we configure it properly, but may be attack other
+ devices in that network. Because of the tasks I did, its much easier for me to understand. Also I saw how he is working and what type of problems he's facing in the Deployment, that
+ helps me to understand about the office environment.
+  
+ In conclusion, I have learned less things today, but which was very important than those and Advanced using practical things. Now I'm very curious to move ahead to learn about 
+ Networking and its different application .
+ Thank you.
+ 
+  
