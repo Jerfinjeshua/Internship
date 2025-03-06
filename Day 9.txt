@@ -1,5 +1,5 @@
 Day 9
- Today is the day 9 which starts with an small difference that is instead of morning class we went to our mentor. My mentor gave me a task to do in the virtual machine like to make it as 
+ Today is the day 9 which starts with an small difference that is instead of morning class we went to our mentor. My mentor gave me a task to do in the virtual machine like, to make it as 
  host then make the physical machine as client and then try to connect the application run in the Host with the client. At first I thought its an easy task because that I did a similar
  task  in my previous  day to connect my physical server to other clients in same network. But for a while I tried to run the application in virtual server cause I'm not familiar with
  Linux Operating System .Then after a while that I used Linux , it was much more comfortable for me to work. Even installing Visual Studio was difficult comparing with Windows  
