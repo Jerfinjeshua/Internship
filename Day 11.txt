@@ -20,12 +20,22 @@ allow the Physical Machine to connect to the guest port where the Live Server is
 The remaining steps were very understandable, just like the last time I did them on my Physical Machine. 
 
 Finally I can able to connect my virtual server with physical server by port forwarding ,but I cant connect with other devices in the same network. for a while I tried to do this, then I get
-to know some thing is blocking my system to share the port with other devices , which I thought was Fire wall . And I learned a command to disable fire wall ==//netsh advfirewall set allprofiles state off//-- and to check whether its active or not use --//netsh advfirewall show allprofiles//--. As I thought fire wall is blocking the access. After disabling it everything works properly. Like this seeing the result after searching for a while and solving the problem helps me to understand more and increase my curiosity to learn and connect the 
-working of network. Then my mentor showed me by connecting the office server with his laptop that is connected in mobile hotspot. which he said was Port forwarding but to connect with different networks we need authentication of server like name password or something helps to access it.
-Then I explored the topic OSI model in Internet .I get to know there are seven layers 1.Physical Layer,2.Data-Link Layer,3.Network Layer,4.Transport Layer,5.Session Layer,6.Presentation Layer,7.Application Layer, Each layer have its own work like security, understanding...etc. OSI model comes between two Devices(Sender and Receiver) In Top to bottom and Bottom to top.
+to know some thing is blocking my system to share the port with other devices , which I thought was Fire wall . And I learned a command to disable fire wall ==//netsh advfirewall set allprofiles state off//-- and to check whether its active or not use --//netsh advfirewall show allprofiles//--. 
+As I thought fire wall is blocking the access. After disabling it everything works properly.
+Like this seeing the result after searching for a while and solving the problem helps me to understand more and
+increase my curiosity to learn and connect the 
+working of network. Then my mentor showed me by connecting the office server with his laptop that is connected in mobile hotspot.
+which he said was Port forwarding but to connect with different networks we need authentication of server like name password or something helps to access it.
+Then I explored the topic OSI model in Internet .I get to know there are seven layers 
+1.Physical Layer,2.Data-Link Layer,3.Network Layer,4.Transport Layer,5.Session Layer,6.Presentation Layer,7.Application Layer,
+Each layer have its own work like security, understanding...etc. OSI model comes between two Devices(Sender and Receiver) In Top to bottom and Bottom to top.
 In simple terms, it specifies how a network functions and separate the way that systems send information to each other.
 
-After that my mentor asked me about why use containerization instead of virtual machine and their difference . First I thought Containerization use the Physical machines Operating System it won't use other Operating System like Virtual Machine. Then he told to deploy other operating system into Container I have no Idea about that . And in my opinion its not possible but I have to prove it or I have to learn some thing new about Containerization. Also I explored Some concepts like TCP,IP in Networking helped me to understand some core concepts.
+After that my mentor asked me about why use containerization instead of virtual machine and their difference . 
+First I thought Containerization use the Physical machines Operating System it won't use other Operating System like Virtual Machine.
+Then he told to deploy other operating system into Container I have no Idea about that . 
+And in my opinion its not possible but I have to prove it or I have to learn some thing new about Containerization.
+Also I explored Some concepts like TCP,IP in Networking helped me to understand some core concepts.
 Then I again searched about the docker file that I created Inside the Vs code and understood about that which was,
 
 FROM nginx:latest- It will use the latest Nginx image as base
@@ -34,7 +44,10 @@ COPY . /usr/share/nginx/html- It copies the Html and other files to the Nginx we
 EXPOSE 80- It allows Port 80 to external access
 CMD ["nginx", "-g", "daemon off;"]- It starts the Nginx when the container runs
 
-In conclusion,  Today I learned more Practical than theoretical which helped me to understand the core concepts in Port Forwarding and Containerization . Because of this I have Zero regrets cause I'm learning something new every day. I'm very excited to learn new things in upcoming days that helps to increase my knowledge in Networking.
+In conclusion,  Today I learned more Practical than theoretical which helped me to understand the core concepts in Port Forwarding and Containerization .
+Because of this I have Zero regrets cause I'm learning something new every day. 
+I'm very excited to learn new things in upcoming days that helps to increase my knowledge in Networking.
+Thank you.
 
 
 
