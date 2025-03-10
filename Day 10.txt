@@ -5,7 +5,8 @@ It also made it clearer why we use programming languages and in what way they ar
 The language consists of Symbols, Tokens, and Expressions. Symbols include Alphabets, Numbers, and Special Characters, which are the basic building blocks.
 Tokens are a collection of one or more symbols, and they form meaningful units in a program.
 Expressions, on the other hand, are a collection of tokens that come together to create instructions. 
-However, the validity of an expression depends on two important things: syntax and semantics. Syntax refers to the structure and rules of the language, while semantics deals with the meaning behind the expression. Without proper syntax and semantics, a program will not function correctly.
+However, the validity of an expression depends on two important things: syntax and semantics. Syntax refers to the structure and rules of the language, while semantics deals with the meaning behind the expression.
+Without proper syntax and semantics, a program will not function correctly.
 The Symbols are A-Z,a-z,0-9, and special characters like 1,@,? & etc. Tokens has types. They are noun, pronoun, verb and Adverb. Expressions are of exclamatory, Statements, Sentence. group 
 of expressions are paragraphs, Sections, Chapters. while I compare this with the Java programming language that helped me a lot to connect it. 
 The compilation process is the process of converting human readable source code into machine code that a computer can execute.
