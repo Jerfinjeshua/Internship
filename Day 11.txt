@@ -20,7 +20,8 @@ allow the Physical Machine to connect to the guest port where the Live Server is
 The remaining steps were very understandable, just like the last time I did them on my Physical Machine. 
 
 Finally I can able to connect my virtual server with physical server by port forwarding ,but I cant connect with other devices in the same network. for a while I tried to do this, then I get
-to know some thing is blocking my system to share the port with other devices , which I thought was Fire wall . And I learned a command to disable fire wall ==//netsh advfirewall set allprofiles state off//-- and to check whether its active or not use --//netsh advfirewall show allprofiles//--. 
+to know some thing is blocking my system to share the port with other devices , which I thought was Fire wall . And I learned a command to disable fire wall ==//netsh advfirewall set allprofiles state off//-- and
+to check whether its active or not use --//netsh advfirewall show allprofiles//--. 
 As I thought fire wall is blocking the access. After disabling it everything works properly.
 Like this seeing the result after searching for a while and solving the problem helps me to understand more and
 increase my curiosity to learn and connect the 
