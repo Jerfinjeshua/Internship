@@ -1,5 +1,23 @@
 Day 11
-Today I thought as usual the morning session would be a class on the 2nd floor, but instead, we went to the 3rd floor to meet our mentors. My mentor asked me about the previous tasks like Containerization and connecting the Virtual Machine with other devices. I did that task, but I didn't understand everything I did, like why I used Nginx here. I thought that by using it, only we could connect with another server. Also, on the web page while running, instead of showing the website that I was hosting from the Virtual Machine, it was displaying the Nginx welcome page. I didn't understand what was happening or what the problem was. The only thing I figured out was that my Virtual Machine was connected to the Physical Machine using Port Forwarding. Then my mentor told me to check whether the website was running correctly inside Nginx in the Virtual Machine. That’s when I understood that I could host the website using VS Code even without Nginx. Nginx is like a server that helps us in an efficient way by making things faster and using fewer resources. So, instead of making things more complex, I chose to use the Live Server in Visual Studio, which works similarly but is slightly slower. Then I got to know that Port Forwarding is a technique that helps connect other devices to a private network. In my Virtual Machine, I changed the accessing port to 8080 so that it could be connected with other devices. In Port Forwarding, I changed the guest Visual Studio Code into 5500 because the Live Server uses it by default. Then, I set the host port as 8080, which will be connected to my Physical Machine. At first, I thought that by using Port Forwarding, we could use the Virtual Machine’s local IP to connect it with other devices on the same network. Later, I understood that Port Forwarding is just a way to tell the Virtual Machine to change the host port and allow the Physical Machine to connect to the guest port where the Live Server is running. The remaining steps were very understandable, just like the last time I did them on my Physical Machine. 
+Today I thought as usual the morning session would be a class on the 2nd floor, but instead, we went to the 3rd floor to meet our mentors. 
+My mentor asked me about the previous tasks like Containerization and connecting the Virtual Machine with other devices.
+I did that task, but I didn't understand everything I did, like why I used Nginx here.
+I thought that by using it, only we could connect with another server.
+Also, on the web page while running, instead of showing the website that I was hosting from the Virtual Machine,
+it was displaying the Nginx welcome page. I didn't understand what was happening or what the problem was.
+The only thing I figured out was that my Virtual Machine was connected to the Physical Machine using Port Forwarding.
+Then my mentor told me to check whether the website was running correctly inside Nginx in the Virtual Machine.
+That’s when I understood that I could host the website using VS Code even without Nginx. 
+Nginx is like a server that helps us in an efficient way by making things faster and using fewer resources.
+So, instead of making things more complex, I chose to use the Live Server in Visual Studio, which works similarly but is slightly slower. 
+Then I got to know that Port Forwarding is a technique that helps connect other devices to a private network. 
+In my Virtual Machine, I changed the accessing port to 8080 so that it could be connected with other devices.
+In Port Forwarding, I changed the guest Visual Studio Code into 5500 because the Live Server uses it by default.
+Then, I set the host port as 8080, which will be connected to my Physical Machine.
+At first, I thought that by using Port Forwarding, we could use the Virtual Machine’s local IP to connect it with other devices on the same network. 
+Later, I understood that Port Forwarding is just a way to tell the Virtual Machine to change the host port and
+allow the Physical Machine to connect to the guest port where the Live Server is running.
+The remaining steps were very understandable, just like the last time I did them on my Physical Machine. 
 
 Finally I can able to connect my virtual server with physical server by port forwarding ,but I cant connect with other devices in the same network. for a while I tried to do this, then I get
 to know some thing is blocking my system to share the port with other devices , which I thought was Fire wall . And I learned a command to disable fire wall ==//netsh advfirewall set allprofiles state off//-- and to check whether its active or not use --//netsh advfirewall show allprofiles//--. As I thought fire wall is blocking the access. After disabling it everything works properly. Like this seeing the result after searching for a while and solving the problem helps me to understand more and increase my curiosity to learn and connect the 
