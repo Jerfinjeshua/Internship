@@ -1,5 +1,5 @@
 Day 12
-Today's morning, we also went to our mentors like yesterday. He asked me again the same question, which was: shall we use a separate operating system in containers?
+Today's morning also, we went to our mentors like yesterday. He asked me again the same question, which was: shall we use a separate operating system in containers?
 I tried to get the answer by searching on the internet, but I didn't figure out if we can or not. Then he asked me how I should communicate with Docker and how I use it.
 I thought he was asking about the CLI commands I used to do the tasks in Docker. After I said this, he told me to search more about this and understand it properly.
 Then, I understood the workflow of the container. At first, I thought we couldn't use multiple operating systems in containers.
