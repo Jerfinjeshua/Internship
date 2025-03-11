@@ -24,7 +24,8 @@ The two ways are:
 Another way is that we can save the image as a file and transfer it manually using external storage or a network. 
 This method is helpful when we do not have internet access or need to share it within a local system.
 I always wondered why we are using the command prompt because we can do so many tasks using a UI.
-Also, commands in the command prompt are very difficult to remember, and sometimes they feel complex. Using a graphical interface feels much easier because we can click on buttons and menus instead of typing long commands.
+Also, commands in the command prompt are very difficult to remember, and sometimes they feel complex.
+Using a graphical interface feels much easier because we can click on buttons and menus instead of typing long commands.
 
 Then my mentor told me why we are using the command prompt. He said it's not always necessary and not needful to have a 
 GUI for every computer, especially in cases like servers, where CLI will fulfill its need efficiently.
