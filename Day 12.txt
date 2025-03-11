@@ -1,0 +1,30 @@
+Day 12
+Today's morning, we also went to our mentors like yesterday. He asked me again the same question, which was: shall we use a separate operating system in containers?
+I tried to get the answer by searching on the internet, but I didn't figure out if we can or not. Then he asked me how I should communicate with Docker and how I use it.
+I thought he was asking about the CLI commands I used to do the tasks in Docker. After I said this, he told me to search more about this and understand it properly.
+Then, I understood the workflow of the container. At first, I thought we couldn't use multiple operating systems in containers. Then, I realized that containers are also like virtual machines, running as a lightweight runtime environment. After understanding the concept of images in Docker, my mind changed. I realized that we could use other operating systems
+by using specific images from Docker Hub, such as (FROM ubuntu:latest) in a Dockerfile. Images work like prebuilt containers that have the package manager for a particular application.
+
+Containerization is much easier than virtualization, and it is much faster and more efficient. For example, it takes more than 2 minutes to start a virtual machine by booting the operating system. We can easily push, pull, and share the image we created and transfer it to other devices, but for virtual machines, it's a little more difficult and time-consuming.
+When we need to run our application in an isolated environment that uses a full operating system, we can go with a virtual machine. It provides better isolation and security. It gives complete control over the system and allows us to configure it as needed. Virtual machines require more resources, but they are useful for running multiple different systems on the same hardware.
+Then, I understood how I should share my container with others. There are two ways to do this, and both methods are useful depending on the situation. The two ways are:
+
+1.We should push it to Docker Hub and make it accessible to those who need it. 
+2.This way, others can pull the image and use it without manually transferring the file. It also makes deployment easier.
+
+Another way is that we can save the image as a file and transfer it manually using external storage or a network. This method is helpful when we do not have internet access or need to share it within a local system.
+I always wondered why we are using the command prompt because we can do so many tasks using a UI. Also, commands in the command prompt are very difficult to remember, and sometimes they feel complex. Using a graphical interface feels much easier because we can click on buttons and menus instead of typing long commands.
+
+Then my mentor told me why we are using the command prompt. He said it's not always necessary and not needful to have a GUI for every computer, especially in cases like servers, where CLI will fulfill its need efficiently. Servers are usually designed to run without a graphical interface because it saves resources and allows automation. Also, by learning to use the command prompt, we can understand the basics and get to know how everything works inside a computer. Many tasks can be done faster using commands instead of clicking through multiple steps in a UI. The command line is a powerful tool that can make work easier once we learn the basic commands. I always like to learn everything from scratch, just like building a strong foundation for a house. Now, after hearing about the real-world use case of the command prompt, I'm very interested in learning more about CLI and its useful commands. The more I learn, the more I realize how important it is in the IT field.
+
+After the lunch break, I started to learn about the topics he gave me to explore, one of which was DNS. DNS stands for Domain Name System. It is a very important service that translates domain names into IP addresses. Without DNS, users would have to remember long and complex IP addresses instead of simple domain names. This process helps users access websites and applications using human-readable names instead of difficult-to-remember IP addresses, making it much easier . DNS servers store records that map domain names to IP addresses, and when a user enters a domain name in a browser, the DNS server finds the correct IP address and connects them to the right website. DNS works behind the network and most people don't even realize its importance. Without DNS, the internet would be much harder to use. There are different types of DNS records, such as A records, CNAME records, and MX records, which help route traffic correctly. Learning about DNS has helped me understand how the internet works and why it is important for websites and applications. 
+
+In Conclusion, like Yesterday today also I learned many thing practically and also understood the more I learn about these technologies, the more interested I become in understanding how everything connects and works together. Each concept I explore gives me a deeper insight into how IT systems function. I now feel more confident in using Docker, the command line, and DNS, and I am excited to keep learning more.
+Thank you.
+
+
+
+
+
+ 
+ 
