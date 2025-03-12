@@ -1,0 +1,24 @@
+Day 13
+ Today, as usual, we went to our mentor in the morning session. While my mentor was not there, I started to do the same task as yesterday, working in Docker, but now by using Spring Boot.
+Firstly, I thought it would be an easier task like yesterday, but in Spring Boot, it's something different. First, we have to insert the project into a JAR file. In VS Code, we don’t do it like that because VS Code directly does the compiling and running. But in Spring Boot, it will first compile the code into bytecode, then it will be sent to the Java Virtual Machine, which helps it run on any operating system.
+Docker runs applications in an isolated environment, so it expects a single executable file in the project, like a JAR file. That's why we have to build the JAR file first before running the application inside a container. After understanding this, it became much easier to do that, but I had to understand the Dockerfile that I created before.
+Everything I did seemed correct, but something was not running properly while creating the Docker image. My mentor told me to check the Dockerfile carefully and understand it properly because there was a syntax error. Then, I got to know that we have to give the filename to put the JAR file. After correcting it, I created the container using Spring Boot, and it ran properly.
+After that, my mentor told me to do the same thing as a virtual machine, which I created using Ubuntu. I successfully created it, but I didn't understand how Ubuntu was running, and I wondered what its purpose was. Then my mentor explained a lot, in a way that was understandable.
+He told me I have to see the container as another computer, like a virtual machine, which will use a separate operating system. This approach will be more helpful for running applications in different environments.
+At first, I thought I could only run statically compiled applications without an operating system inside a container. However, I now realize that without an OS, we can’t use specific commands or package managers. Also, without an OS, the commands written inside the Dockerfile wouldn’t run.
+I understood much better today than yesterday. In the future, exploring topics like this in containerization will help me gain more confidence in these concepts and make me a professional developer.
+
+Then my mentor explained more about images and containerization with a simple explanation, like why there are images in Docker and why all these things exist inside this tool. Some of these images are created officially, while others are built by developers worldwide. This helps me understand the importance of Docker more effectively. I’m looking forward to learning many things practically like this, which will help me understand networking more easily and efficiently.
+
+After the lunch break, we went downstairs for the class. Today’s class was taken by Rexila, who is a frontend developer at Surfboard Payments. She started the class by explaining the fundamentals of HTML and CSS. I already learned these things before and even worked on some projects, so I wondered why I needed to learn them again. But when she gave us a task to complete using basic tags, I got confused because I was not in touch with these concepts for a while. Then, she explained everything clearly, focusing on the areas where we got stuck.
+
+I also learned about the sizing properties that used to confuse me, like padding and margin. She explained them more clearly with simple examples, which helped me understand the difference between them.
+
+In conclusion, today went like the other days, filled with curiosity and exploring new concepts. However, today, I gained a much deeper understanding of containerization, which made me even more interested in learning further. I think such a way of learning will help me get better at networking and containerization much sooner. I am excited to continue learning in this manner.
+
+Thank you.
+
+
+
+
+
