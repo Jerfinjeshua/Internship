@@ -1,0 +1,26 @@
+Day 14
+Today also, we went to our mentors in the morning, then I started to explore more about containerization and its concepts. Because of this, today I got to know containerization is the same as other physical and virtual machines. It is lightweight, more efficient, and faster compared to a virtual machine. This is the same thing I said yesterday but with some confusion, but today I gained more understanding of that by connecting containerization with virtual machines. Everything we can do in containerization is like a virtual machine but by using fewer resources and in a much faster, more efficient way.
+Then I searched about whether there are any drawbacks or disadvantages in containerization. By now, I got to know that containerization can use a separate operating system but uses the same kernel of the physical machine, so I think we can't use a full operating system for testing. Then I searched more about the kernel, which is the heart of an operating system, that manages resources and communication between the operating system and hardware.
+At first, I wondered why a virtual machine was much safer than containerization because its total OS is isolated from the physical machine. Then, I got to know that even though containerization uses the kernel of the host, it won’t affect the host operating system directly. My mentor also explained that containers provide enough isolation for running applications. Understanding this made me more confident in learning about containerization deeply and using it in real-world scenarios. 
+ 
+Then  I started to explore in Networking and its concepts. This concept is entirely new for me, so its little difficult to where should I start and get Into a flow . When I start to look
+specific topics it uses many new words like Protocol,Switches..etc. But after exploring in detail I understood something that like the protocol is set of rules that implies in communication between devices, but to understand about this I need to understand more about other things like OSI layers. so I'm looking forward to learn more about this.
+Then my mentor told me to add what I learned about computer and networking in previous classes in todays report. In simple words I have to say my understanding in Computers and its working was totally changed. first I thought without an monitor or Screens to see every process in a virtual way we can't use computer, but after these days by doing and using Virtual machine, 
+Containerization and exploring more in CLI I have understood there is no need to have a monitor in every time to work in a computer. Then I got more clarity in difference in Virtual machine,
+Containerization day by day likely I also understood today that Jar file is an compiled file of the necessary files from the project, that can be used inside an container. 
+The another thing I understood more about Servers which is just a computer. Before I used to thought Server is a big thing which only have just storage devices to store data's, but I never thought how data was transmitting as an network between devices and sharing data's. Now after on my own making my laptop as host machine I understood how servers are working and 
+Hosting the websites. Like everything in Network is computer not just a client and the destination server, there is the interference of other servers like DNS too. for example, If we search google.com the request don't goes straight to google server, It has to get the IP of the address from there if it was not in the particular DNS it search on other nearby devices .
+I want to know more about what's in the way between connecting devices, Like OSI layers .After understanding about these things I'm getting much more interest in such concepts. So I  in future I'll do every work more understandable in computers and try to connect everything with what I learns.
+ 
+Then I went to 2nd floor for regular class, Koushik started to tell about programming language and compared with English language like difference between Tokens and the syntax. 
+Keywords are like const ,var, let, which also contains data type and then about variable name which will have the data type , then continues with expression and value.
+Then he told about Data types which has two types, Primitive, complex data types .
+Primitive-Int, char, short, byte..etc each have its own size and varies by Programming language
+Non-primitive-Array, Map...etc which have continuous data's.
+By splitting everything into small packets and teaching was much understandable and increasing interest in this topics.
+I'm excited to learn more in such programming concepts that helps me to improve my knowledge much more in developing too. 
+
+In conclusion today's class went very well and I understanded a lot. I get to know both about working In Production and Developing .It will be more useful for me to work in real world projects like understanding the SDLC life cycle much better. Also I will do everything and understands using compounding to improve my skills.
+Thank you.
+
+
